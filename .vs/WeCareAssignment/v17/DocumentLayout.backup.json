@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jagsher Singh\\source\\repos\\WeCareAssignment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2A07B0A2-D69F-4B56-AEB3-7CCC12E8BD0A}|WeCareAssignment\\WeCareAssignment.csproj|c:\\users\\jagsher singh\\source\\repos\\wecareassignment\\wecareassignment\\controllers\\teacherscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A07B0A2-D69F-4B56-AEB3-7CCC12E8BD0A}|WeCareAssignment\\WeCareAssignment.csproj|solutionrelative:wecareassignment\\controllers\\teacherscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A07B0A2-D69F-4B56-AEB3-7CCC12E8BD0A}|WeCareAssignment\\WeCareAssignment.csproj|c:\\users\\jagsher singh\\source\\repos\\wecareassignment\\wecareassignment\\controllers\\parentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A07B0A2-D69F-4B56-AEB3-7CCC12E8BD0A}|WeCareAssignment\\WeCareAssignment.csproj|solutionrelative:wecareassignment\\controllers\\parentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A07B0A2-D69F-4B56-AEB3-7CCC12E8BD0A}|WeCareAssignment\\WeCareAssignment.csproj|c:\\users\\jagsher singh\\source\\repos\\wecareassignment\\wecareassignment\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A07B0A2-D69F-4B56-AEB3-7CCC12E8BD0A}|WeCareAssignment\\WeCareAssignment.csproj|solutionrelative:wecareassignment\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A07B0A2-D69F-4B56-AEB3-7CCC12E8BD0A}|WeCareAssignment\\WeCareAssignment.csproj|c:\\users\\jagsher singh\\source\\repos\\wecareassignment\\wecareassignment\\controllers\\dailyactivitiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A07B0A2-D69F-4B56-AEB3-7CCC12E8BD0A}|WeCareAssignment\\WeCareAssignment.csproj|solutionrelative:wecareassignment\\controllers\\dailyactivitiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A07B0A2-D69F-4B56-AEB3-7CCC12E8BD0A}|WeCareAssignment\\WeCareAssignment.csproj|c:\\users\\jagsher singh\\source\\repos\\wecareassignment\\wecareassignment\\controllers\\childrencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A07B0A2-D69F-4B56-AEB3-7CCC12E8BD0A}|WeCareAssignment\\WeCareAssignment.csproj|solutionrelative:wecareassignment\\controllers\\childrencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AD209E3-6FF7-45CB-A8FC-D72F2084A98D}|WeCareAssignment.Tests\\WeCareAssignment.Tests.csproj|c:\\users\\jagsher singh\\source\\repos\\wecareassignment\\wecareassignment.tests\\teacherscontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AD209E3-6FF7-45CB-A8FC-D72F2084A98D}|WeCareAssignment.Tests\\WeCareAssignment.Tests.csproj|solutionrelative:wecareassignment.tests\\teacherscontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AD209E3-6FF7-45CB-A8FC-D72F2084A98D}|WeCareAssignment.Tests\\WeCareAssignment.Tests.csproj|c:\\users\\jagsher singh\\source\\repos\\wecareassignment\\wecareassignment.tests\\parentscontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AD209E3-6FF7-45CB-A8FC-D72F2084A98D}|WeCareAssignment.Tests\\WeCareAssignment.Tests.csproj|solutionrelative:wecareassignment.tests\\parentscontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AD209E3-6FF7-45CB-A8FC-D72F2084A98D}|WeCareAssignment.Tests\\WeCareAssignment.Tests.csproj|c:\\users\\jagsher singh\\source\\repos\\wecareassignment\\wecareassignment.tests\\dailyactivitiescontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AD209E3-6FF7-45CB-A8FC-D72F2084A98D}|WeCareAssignment.Tests\\WeCareAssignment.Tests.csproj|solutionrelative:wecareassignment.tests\\dailyactivitiescontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AD209E3-6FF7-45CB-A8FC-D72F2084A98D}|WeCareAssignment.Tests\\WeCareAssignment.Tests.csproj|c:\\users\\jagsher singh\\source\\repos\\wecareassignment\\wecareassignment.tests\\childrencontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AD209E3-6FF7-45CB-A8FC-D72F2084A98D}|WeCareAssignment.Tests\\WeCareAssignment.Tests.csproj|solutionrelative:wecareassignment.tests\\childrencontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TeachersController.cs",
+              "DocumentMoniker": "C:\\Users\\Jagsher Singh\\source\\repos\\WeCareAssignment\\WeCareAssignment\\Controllers\\TeachersController.cs",
+              "RelativeDocumentMoniker": "WeCareAssignment\\Controllers\\TeachersController.cs",
+              "ToolTip": "C:\\Users\\Jagsher Singh\\source\\repos\\WeCareAssignment\\WeCareAssignment\\Controllers\\TeachersController.cs",
+              "RelativeToolTip": "WeCareAssignment\\Controllers\\TeachersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T02:19:48.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ParentsController.cs",
+              "DocumentMoniker": "C:\\Users\\Jagsher Singh\\source\\repos\\WeCareAssignment\\WeCareAssignment\\Controllers\\ParentsController.cs",
+              "RelativeDocumentMoniker": "WeCareAssignment\\Controllers\\ParentsController.cs",
+              "ToolTip": "C:\\Users\\Jagsher Singh\\source\\repos\\WeCareAssignment\\WeCareAssignment\\Controllers\\ParentsController.cs",
+              "RelativeToolTip": "WeCareAssignment\\Controllers\\ParentsController.cs",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAywAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T02:19:42.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Jagsher Singh\\source\\repos\\WeCareAssignment\\WeCareAssignment\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WeCareAssignment\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Jagsher Singh\\source\\repos\\WeCareAssignment\\WeCareAssignment\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WeCareAssignment\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T02:19:37.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DailyActivitiesController.cs",
+              "DocumentMoniker": "C:\\Users\\Jagsher Singh\\source\\repos\\WeCareAssignment\\WeCareAssignment\\Controllers\\DailyActivitiesController.cs",
+              "RelativeDocumentMoniker": "WeCareAssignment\\Controllers\\DailyActivitiesController.cs",
+              "ToolTip": "C:\\Users\\Jagsher Singh\\source\\repos\\WeCareAssignment\\WeCareAssignment\\Controllers\\DailyActivitiesController.cs",
+              "RelativeToolTip": "WeCareAssignment\\Controllers\\DailyActivitiesController.cs",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T02:19:31.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ChildrenController.cs",
+              "DocumentMoniker": "C:\\Users\\Jagsher Singh\\source\\repos\\WeCareAssignment\\WeCareAssignment\\Controllers\\ChildrenController.cs",
+              "RelativeDocumentMoniker": "WeCareAssignment\\Controllers\\ChildrenController.cs",
+              "ToolTip": "C:\\Users\\Jagsher Singh\\source\\repos\\WeCareAssignment\\WeCareAssignment\\Controllers\\ChildrenController.cs",
+              "RelativeToolTip": "WeCareAssignment\\Controllers\\ChildrenController.cs",
+              "ViewState": "AgIAAIEAAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T02:19:25.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TeachersControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\Jagsher Singh\\source\\repos\\WeCareAssignment\\WeCareAssignment.Tests\\TeachersControllerTests.cs",
+              "RelativeDocumentMoniker": "WeCareAssignment.Tests\\TeachersControllerTests.cs",
+              "ToolTip": "C:\\Users\\Jagsher Singh\\source\\repos\\WeCareAssignment\\WeCareAssignment.Tests\\TeachersControllerTests.cs",
+              "RelativeToolTip": "WeCareAssignment.Tests\\TeachersControllerTests.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAswDMAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T02:19:01.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DailyActivitiesControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\Jagsher Singh\\source\\repos\\WeCareAssignment\\WeCareAssignment.Tests\\DailyActivitiesControllerTests.cs",
+              "RelativeDocumentMoniker": "WeCareAssignment.Tests\\DailyActivitiesControllerTests.cs",
+              "ToolTip": "C:\\Users\\Jagsher Singh\\source\\repos\\WeCareAssignment\\WeCareAssignment.Tests\\DailyActivitiesControllerTests.cs",
+              "RelativeToolTip": "WeCareAssignment.Tests\\DailyActivitiesControllerTests.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAowDMAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T02:18:39.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ParentsControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\Jagsher Singh\\source\\repos\\WeCareAssignment\\WeCareAssignment.Tests\\ParentsControllerTests.cs",
+              "RelativeDocumentMoniker": "WeCareAssignment.Tests\\ParentsControllerTests.cs",
+              "ToolTip": "C:\\Users\\Jagsher Singh\\source\\repos\\WeCareAssignment\\WeCareAssignment.Tests\\ParentsControllerTests.cs",
+              "RelativeToolTip": "WeCareAssignment.Tests\\ParentsControllerTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T02:16:59.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ChildrenControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\Jagsher Singh\\source\\repos\\WeCareAssignment\\WeCareAssignment.Tests\\ChildrenControllerTests.cs",
+              "RelativeDocumentMoniker": "WeCareAssignment.Tests\\ChildrenControllerTests.cs",
+              "ToolTip": "C:\\Users\\Jagsher Singh\\source\\repos\\WeCareAssignment\\WeCareAssignment.Tests\\ChildrenControllerTests.cs",
+              "RelativeToolTip": "WeCareAssignment.Tests\\ChildrenControllerTests.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAkwFMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T23:57:34.692Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
